@@ -1,0 +1,11 @@
+name: ConstruktJump
+version: '${project.version}'
+main: de.construkter.construktjump.ConstruktJump
+api-version: '1.20'
+
+commands:
+  hub:
+    description: Teleportiere dich zum Hub
+
+  lobby:
+    description: Teleportiere dich zum Hub
